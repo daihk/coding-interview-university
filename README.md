@@ -959,11 +959,11 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [ ] singleton
         - [ ] adapter
         - [ ] prototype
-        - [ ] decorator
+        - [x] decorator
         - [ ] visitor
         - [ ] factory, abstract factory
         - [ ] facade
-        - [ ] observer
+        - [x] observer
         - [ ] proxy
         - [ ] delegate
         - [ ] command
