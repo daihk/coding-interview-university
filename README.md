@@ -956,8 +956,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
         - [x] strategy
-        - [ ] singleton
-        - [ ] adapter
+        - [x] singleton
+        - [x] adapter
         - [ ] prototype
         - [x] decorator
         - [ ] visitor
