@@ -966,11 +966,11 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [x] observer
         - [ ] proxy
         - [ ] delegate
-        - [ ] command
-        - [ ] state
+        - [x] command
+        - [x] state
         - [ ] memento
-        - [ ] iterator
-        - [ ] composite
+        - [x] iterator
+        - [x] composite
         - [ ] flyweight
     - [ ] [Chapter 6 (Part 1) - Patterns (video)](https://youtu.be/LAP2A80Ajrg?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO&t=3344)
     - [ ] [Chapter 6 (Part 2) - Abstraction-Occurrence, General Hierarchy, Player-Role, Singleton, Observer, Delegation (video)](https://www.youtube.com/watch?v=U8-PGsjvZc4&index=12&list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
